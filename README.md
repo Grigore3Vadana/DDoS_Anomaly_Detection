@@ -4,7 +4,7 @@
 
 ### Description
 
-This paper analyzes the automatic detection of application layer DoS/DDoS attacks using unsupervised anomaly detection algorithms on the CIC-IDS-2017 dataset and various preprocessing and feature engineering techniques.
+This project analyzes the automatic detection of application layer DoS/DDoS attacks using unsupervised anomaly detection algorithms on the CIC-IDS-2017 dataset and various preprocessing and feature engineering techniques.
 
 The study evaluates the performance of several algorithms (KNN, Isolation Forest, LOF, HBOS, CBLOF) in diverse training scenarios combined with derived metrics or subsets specific to a particular type of attack. The obtained results demonstrate the advantages or disadvantages of specific approaches in detecting application layer DoS/DDoS attacks.
 
