@@ -118,8 +118,9 @@ At each test iteration, the result is displayed in the execution window, indicat
  The best results were obtained in the augmentation scenario (**LOF Algorithm, Log/Yeo-Johnson transformation, MinMaxScaler()**), with all relevant metrics (F1, recall, ROC AUC) reaching optimal levels for DoS/DDoS detection.
 
 ---
+### License
 
-#### The project (bachelor degree) was carried out within the institute:
+#### The project (bachelor's thesis) was conducted at the institute:
 * National University of Science and Technology Politehnica Bucharest
 * Faculty of Automatic Control and Computers
 * Department of Automation and Industrial Informatics
