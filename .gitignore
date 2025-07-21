@@ -1,0 +1,28 @@
+# === Setări locale PyCharm ===
+.idea/
+*.iml
+
+# === Cache și bytecode Python ===
+__pycache__/
+*.pyc
+
+# === Mediu virtual local ===
+.venv/
+
+# === Fișiere macOS ===
+.DS_Store
+backup/*
+
+scripts/analysis/*
+!scripts/analysis/analiza_dataset.py
+
+scripts/rapoarte/
+
+scripts/final_rez.py
+scripts/justtesting.py
+
+/results/articole licenta/*
+
+dataset/Wednesday-workingHours.pcap_ISCX.csv
+
+
