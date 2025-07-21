@@ -1,0 +1,82 @@
+ #   Column                       Non-Null Count   Dtype  
+---  ------                       --------------   -----  
+ 0   Destination Port             692703 non-null  int64  
+ 1   Flow Duration                692703 non-null  int64  
+ 2   Total Fwd Packets            692703 non-null  int64  
+ 3   Total Backward Packets       692703 non-null  int64  
+ 4   Total Length of Fwd Packets  692703 non-null  int64  
+ 5   Total Length of Bwd Packets  692703 non-null  int64  
+ 6   Fwd Packet Length Max        692703 non-null  int64  
+ 7   Fwd Packet Length Min        692703 non-null  int64  
+ 8   Fwd Packet Length Mean       692703 non-null  float64
+ 9   Fwd Packet Length Std        692703 non-null  float64
+ 10  Bwd Packet Length Max        692703 non-null  int64  
+ 11  Bwd Packet Length Min        692703 non-null  int64  
+ 12  Bwd Packet Length Mean       692703 non-null  float64
+ 13  Bwd Packet Length Std        692703 non-null  float64
+ 14  Flow Bytes/s                 691695 non-null  float64
+ 15  Flow Packets/s               692703 non-null  float64
+ 16  Flow IAT Mean                692703 non-null  float64
+ 17  Flow IAT Std                 692703 non-null  float64
+ 18  Flow IAT Max                 692703 non-null  int64  
+ 19  Flow IAT Min                 692703 non-null  int64  
+ 20  Fwd IAT Total                692703 non-null  int64  
+ 21  Fwd IAT Mean                 692703 non-null  float64
+ 22  Fwd IAT Std                  692703 non-null  float64
+ 23  Fwd IAT Max                  692703 non-null  int64  
+ 24  Fwd IAT Min                  692703 non-null  int64  
+ 25  Bwd IAT Total                692703 non-null  int64  
+ 26  Bwd IAT Mean                 692703 non-null  float64
+ 27  Bwd IAT Std                  692703 non-null  float64
+ 28  Bwd IAT Max                  692703 non-null  int64  
+ 29  Bwd IAT Min                  692703 non-null  int64  
+ 30  Fwd PSH Flags                692703 non-null  int64  
+ 31  Bwd PSH Flags                692703 non-null  int64  
+ 32  Fwd URG Flags                692703 non-null  int64  
+ 33  Bwd URG Flags                692703 non-null  int64  
+ 34  Fwd Header Length            692703 non-null  int64  
+ 35  Bwd Header Length            692703 non-null  int64  
+ 36  Fwd Packets/s                692703 non-null  float64
+ 37  Bwd Packets/s                692703 non-null  float64
+ 38  Min Packet Length            692703 non-null  int64  
+ 39  Max Packet Length            692703 non-null  int64  
+ 40  Packet Length Mean           692703 non-null  float64
+ 41  Packet Length Std            692703 non-null  float64
+ 42  Packet Length Variance       692703 non-null  float64
+ 43  FIN Flag Count               692703 non-null  int64  
+ 44  SYN Flag Count               692703 non-null  int64  
+ 45  RST Flag Count               692703 non-null  int64  
+ 46  PSH Flag Count               692703 non-null  int64  
+ 47  ACK Flag Count               692703 non-null  int64  
+ 48  URG Flag Count               692703 non-null  int64  
+ 49  CWE Flag Count               692703 non-null  int64  
+ 50  ECE Flag Count               692703 non-null  int64  
+ 51  Down/Up Ratio                692703 non-null  int64  
+ 52  Average Packet Size          692703 non-null  float64
+ 53  Avg Fwd Segment Size         692703 non-null  float64
+ 54  Avg Bwd Segment Size         692703 non-null  float64
+ 55  Fwd Header Length.1          692703 non-null  int64  
+ 56  Fwd Avg Bytes/Bulk           692703 non-null  int64  
+ 57  Fwd Avg Packets/Bulk         692703 non-null  int64  
+ 58  Fwd Avg Bulk Rate            692703 non-null  int64  
+ 59  Bwd Avg Bytes/Bulk           692703 non-null  int64  
+ 60  Bwd Avg Packets/Bulk         692703 non-null  int64  
+ 61  Bwd Avg Bulk Rate            692703 non-null  int64  
+ 62  Subflow Fwd Packets          692703 non-null  int64  
+ 63  Subflow Fwd Bytes            692703 non-null  int64  
+ 64  Subflow Bwd Packets          692703 non-null  int64  
+ 65  Subflow Bwd Bytes            692703 non-null  int64  
+ 66  Init_Win_bytes_forward       692703 non-null  int64  
+ 67  Init_Win_bytes_backward      692703 non-null  int64  
+ 68  act_data_pkt_fwd             692703 non-null  int64  
+ 69  min_seg_size_forward         692703 non-null  int64  
+ 70  Active Mean                  692703 non-null  float64
+ 71  Active Std                   692703 non-null  float64
+ 72  Active Max                   692703 non-null  int64  
+ 73  Active Min                   692703 non-null  int64  
+ 74  Idle Mean                    692703 non-null  float64
+ 75  Idle Std                     692703 non-null  float64
+ 76  Idle Max                     692703 non-null  int64  
+ 77  Idle Min                     692703 non-null  int64  
+ 78  Label                        692703 non-null  object
+
